@@ -88,6 +88,7 @@ mysql默认自带了四个数据库
 4. `use test;`  选择使用数据库test，显示Database changed，表示正在使用test数据库
 5. `create database 数据库名称;`  创建数据库
 6. `show tables;`   查看数据库下有哪些表，tables是复数
+6. `drop database 数据库名称;` 删除数据库
 
 ## 表
 
